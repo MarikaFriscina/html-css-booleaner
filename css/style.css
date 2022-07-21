@@ -1,0 +1,32 @@
+header{
+    background-color: rgb(103, 182, 255);
+}
+
+#logo{
+    width:150px;
+}
+
+h1{
+    font-weight:bolder;
+}
+
+#desc{
+    color: rgb(138, 138, 138)
+}
+
+#title-desc{
+    color: rgb(0, 195, 255);
+    background-color: transparent !important;
+}
+
+#date{
+    font-size:10px;
+}
+
+.desc{
+    font-size: 10px;
+}
+
+span{
+    background-color: yellow;
+}
